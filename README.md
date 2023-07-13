@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Zijia Jiang 👋</h1>
+
+### About me
+
+- 🔭 I’m currently working on landing a full time job (SDE/SWE/backend/frontend/full stack/QA/test/DE). 
+- 🌱 I’m currently learning federated learning, Ray, .NET.
 
 <!--
 **ZijiaStellaJiang/ZijiaStellaJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
